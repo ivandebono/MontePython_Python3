@@ -2,6 +2,7 @@
 Monte Python, a Monte Carlo Markov Chain code (with Class!)
 ===========================================================
 
+:Main developer for this branch: Ivan Debono <ivan.debono@in2p3.fr>
 :Main developer: Thejs Brinckmann <brinckmann@physik.rwth-aachen.de>
 :Author: Benjamin Audren <benjamin.audren@epfl.ch>
 :License: MIT
